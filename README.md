@@ -1,0 +1,2 @@
+# equipment-selection-optimizer
+このプロジェクトではユーザの機器のパラメータ指定に対応する機器が出力される。
